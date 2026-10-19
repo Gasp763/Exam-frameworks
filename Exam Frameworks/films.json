@@ -1,0 +1,37 @@
+[
+    {
+        "nom":"Spider-man 1",
+        "genre":"Action",
+        "image":"src/images/spiderman.webp"
+    },
+
+    {
+        "nom":"Le roi lion",
+        "genre":"Animation",
+        "image":"src/images/roilion.webp"
+    },
+
+    {
+        "nom":"La Nonne",
+        "genre":"Horreur",
+        "image":"src/images/nonne.webp"
+    },
+
+    {
+        "nom":"Star wars: la menace fantôme",
+        "genre":"Science fiction",
+        "image":"src/images/starwars.webp"
+    },
+
+    {
+        "nom":"Les Schtroumfs",
+        "genre":"Comédie",
+        "image":"src/images/schtroumf.webp"
+    },
+
+    {
+        "nom":"Tout sauf toi",
+        "genre":"Romance",
+        "image":"src/images/toutsauftoi.webp"
+    }
+]
