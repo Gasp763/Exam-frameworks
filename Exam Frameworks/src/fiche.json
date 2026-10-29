@@ -1,0 +1,67 @@
+[
+    {
+        "nom":"Spider-man 1",
+        "genre":"Action",
+        "image":"src/images/spiderman.webp",
+        "résumé":"Orphelin, Peter Parker est élevé par sa tante May et son oncle Ben dans le quartier Queens de New York. Tout en poursuivant ses études à l'université, il trouve un emploi de photographe au journal Daily Bugle. Il partage son appartement avec Harry Osborn, son meilleur ami, et rêve de séduire la belle Mary Jane.",
+        "durée":"121 min",
+        "date":"26 juin 2002",
+        "réalisateur":"Sam Raimi",
+        "note":"cote: 74%"
+    },
+
+    {
+        "nom":"Le roi lion",
+        "genre":"Animation",
+        "image":"src/images/roilion.webp",
+        "résumé":"Un lionceau nommé Simba est exilé de son royaume après avoir été accusé d'être responsable de la mort de son père, Mufasa. Avec l'aide d'un étrange duo composé d'un suricate et d'un phacochère, il décide de reprendre ce qui lui revient de droit lorsqu'il apprend qu'il est destiné à être roi.",
+        "durée":"88 min",
+        "date":"15 juin 1994",
+        "réalisateur":"Rob Minkoff, Roger Allers",
+        "note":"cote: 95%"
+    },
+
+    {
+        "nom":"La Nonne",
+        "genre":"Horreur",
+        "image":"src/images/nonne.webp",
+        "résumé":"Lorsqu'une jeune nonne se suicide dans une abbaye roumaine, la stupéfaction est totale dans l'Église catholique. Le Vatican missionne aussitôt un prêtre au passé trouble et une novice pour mener l'enquête. Risquant leur vie, les deux ecclésiastiques doivent affronter une force maléfique qui bouscule leur foi et menace de détruire leur âme. Bientôt, l'abbaye est en proie à une lutte sans merci entre les vivants et les damnés.",
+        "durée":"97 min",
+        "date":"7 septembre 2018",
+        "réalisateur":"Corin Hardy",
+        "note":"cote: 68%"
+    },
+
+    {
+        "nom":"Star wars: la menace fantôme",
+        "genre":"Science fiction",
+        "image":"src/images/starwars.webp",
+        "résumé":"Avant de devenir un célèbre chevalier Jedi, et bien avant de se révéler l'âme la plus noire de la galaxie, Anakin Skywalker est un jeune esclave sur la planète Tatooine. La Force est déjà puissante en lui et il est un remarquable pilote de Podracer. Le maître Jedi Qui-Gon Jinn le découvre et entrevoit alors son immense potentiel. Pendant ce temps, l'armée de droïdes de l'insatiable Fédération du Commerce a envahi Naboo dans le cadre d'un plan secret des Sith visant à accroître leur pouvoir.",
+        "durée":"136 min.",
+        "date":"19 mai 1999",
+        "réalisateur":"George Lucas",
+        "note":"cote: 68%"
+    },
+
+    {
+        "nom":"Les Schtroumfs",
+        "genre":"Comédie",
+        "image":"src/images/schtroumpf.webp",
+        "résumé":"Les Schtroumpfs le film, suit les petites créatures bleues chassées de leur village par le sorcier Gargamel et son chat Azraël. En fuyant à travers une faille spatio-temporelle provoquée par un alignement d'étoiles, ils sont propulsés dans le monde réel, en plein cœur de New York (à Central Park).",
+        "durée":"104 min",
+        "date":"3 aout 2011",
+        "réalisateur":"J. David Stem, David Ronn",
+        "note":"cote: 60%"
+    },
+
+    {
+        "nom":"Tout sauf toi",
+        "genre":"Romance",
+        "image":"src/images/toutsauftoi.webp",
+        "résumé":"Béa et Ben vivent un premier rendez-vous plein de passion et d'attraction. Mais aussi vite que les étincelles jaillissent, l'intérêt s'estompe également. Ils se séparent jusqu'à ce qu'ils se retrouvent de manière inattendue lors d'un mariage en Australie.",
+        "durée":"103 min",
+        "date":"11 décembre 2023",
+        "réalisateur":"Will Gluck",
+        "note":"cote: 68%"
+    }
+]
