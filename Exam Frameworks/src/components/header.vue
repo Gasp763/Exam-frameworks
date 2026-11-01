@@ -5,7 +5,7 @@
 <template>
     <nav>
         <h1>B3G - Films</h1>
-        <a>Home</a>
+        <RouterLink to="/" v-if="$route.path !== '/'">Home</RouterLink>
         <form>
             <label for="searchMovie">Rechercher un film</label>
             <input type="text" id="searchMovie" v-model="movie">
