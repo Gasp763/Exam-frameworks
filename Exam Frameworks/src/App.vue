@@ -1,7 +1,7 @@
 <script setup>
 import Header from './components/header.vue'
 import Contenu from './components/Contenu.vue'
-import film from './films.json'
+import film from './fiche.json'
 </script>
 
 <template>
@@ -10,8 +10,8 @@ import film from './films.json'
 <ul>
   <li v-for="films in film">
     <img v-bind:src="films.image">
-    <p>{{ films.nom }}</p>
-    <p>{{ films.genre }}</p>
+    <p>{{ film.nom }}</p>
+    <p>{{ film.genre }}</p>
   </li>
 </ul>
 </template>
