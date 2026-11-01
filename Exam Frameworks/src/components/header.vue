@@ -4,15 +4,15 @@
 </script>
 <template>
     <nav>
-        <h1>B3G - Films</h1>
+        <h1>Films</h1>
         <RouterLink to="/" v-if="$route.path !== '/'">Home</RouterLink>
-        <form>
+        <form v-if="$route.path !== '/Films'">
             <label for="searchMovie">Rechercher un film</label>
             <input type="text" id="searchMovie" v-model="movie">
             <button type="submit">Chercher</button>
         </form>
     </nav>
-    <div>
+    <div v-if="$route.path !== '/Films'">
         <p>Recherche: {{ movie }}</p>
         <div>
             <span>Filtres:</span>
