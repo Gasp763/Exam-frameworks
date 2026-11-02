@@ -5,7 +5,7 @@ import Films from './components/Films.vue'
 
 const routes = [
   { path: '/', component: Accueil },
-  { path: '/films', component: Films },
+  { path: '/films:index', component: Films},
 ]
 
 const router = createRouter({
