@@ -3,9 +3,8 @@ import { useRouter } from 'vue-router'
 const router = useRouter()
 import film from '../fiche.json'
 
-function goToFilm (index){
-    const url = `/films/${index}`;
-    router.push(url);
+function goToFilm (){
+    router.push("Films");
 }
 </script>
 
@@ -14,7 +13,7 @@ function goToFilm (index){
     <div></div> <!-- Mettre le top 5 dans le div -->
     <h2>Autres films</h2>
     <ul>
-        <li v-for="(films, index) in film" @click="goToFilm">
+        <li v-for="films in film" @click="goToFilm">
             <img v-bind:src="films.image">
             <p>{{ films.nom }}</p>
             <p>{{ films.genre }}</p>

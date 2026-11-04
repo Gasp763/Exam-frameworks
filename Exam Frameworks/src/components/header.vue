@@ -23,6 +23,7 @@
                 <li>Comédie</li>
                 <li>Horreur</li>
                 <li>Romance</li>
+                <li>Fantastique</li>
             </ul>
         </div>
     </div>
